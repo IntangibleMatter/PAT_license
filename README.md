@@ -15,7 +15,7 @@ Permission is hereby granted, free of charge to any person or persons obtaining 
 
 1. This work is not to be used under any circumstances as training data for any AI, Artificial Intelligence, Machine Learning, or any other form of model intended to use this data . Examples include, but are not limited to, GTP-3, Github Copilot, DALL-E, and Stable Diffusion.
 
-2. This lisence is included in redistributions of this work, and may apply only to this work if combined with other work. Other work may still be covered under this license, however.
+2. This license is included in redistributions of this work, and may apply only to this work if combined with other work. Other work may still be covered under this license, however.
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
 ```
